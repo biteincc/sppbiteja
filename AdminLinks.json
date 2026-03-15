@@ -1,0 +1,146 @@
+[
+    
+  {
+    "id": "740892",
+    "source": "Admin",
+    "name": "AVLMUN",
+    "quality": "HD",
+    "language": "English",
+    "sandbox": "on",
+
+    "hls1": "https://grand-s-main.faggotsports.tv/out/v2/fbbcf77efd621f0e2b13f3c145ab08a5/index.m3u8",
+    "hls2": "",
+
+    "iframe1": "https://hmembeds.one/embed/sky-sport-2-nz",
+    "iframe2": "https://l1l1.link/ch?id=10"
+  },
+  
+  {
+    "id": "740893",
+    "source": "Admin",
+    "name": "NFOFUL",
+    "quality": "HD",
+    "language": "English",
+    "sandbox": "on",
+
+
+    "hls1": "",
+    "hls2": "",
+
+    "iframe1": "https://l1l1.link/ch?id=7",
+    "iframe2": "https://l1l1.link/ch?id=28"
+  },
+  
+  {
+    "id": "740891",
+    "source": "Admin",
+    "name": "LIVTOT",
+    "quality": "HD",
+    "language": "English",
+    "sandbox": "on",
+
+
+    "hls1": "",
+    "hls2": "",
+
+    "iframe1": "https://l1l1.link/ch?id=9",
+    "iframe2": "https://l1l1.link/ch?id=16"
+  },
+  
+  {
+    "id": "4445188",
+    "source": "Admin",
+    "name": "LAZMIL",
+    "quality": "HD",
+    "language": "English",
+    "sandbox": "on",
+
+
+    "hls1": "",
+    "hls2": "",
+
+    "iframe1": "https://l1l1.link/ch?id=1",
+    "iframe2": "https://l1l1.link/ch?id=18"
+  },
+  
+  {
+    "id": "748415",
+    "source": "Admin",
+    "name": "BARSEV",
+    "quality": "HD",
+    "language": "English",
+    "sandbox": "on",
+
+
+    "hls1": "https://grand-s-main.faggotsports.tv/out/v2/28bc6f7b350522a4df94627c2fe88362/index.m3u8",
+    "hls2": "",
+
+    "iframe1": "https://hmembeds.one/embed/event-f8236c54a9",
+    "iframe2": "https://l1l1.link/ch?id=6"
+  },
+  
+  {
+    "id": "401810831",
+    "source": "Admin",
+    "name": "OKCWOL",
+    "quality": "HD",
+    "language": "English",
+    "sandbox": "on",
+
+
+    "hls1": "",
+    "hls2": "",
+
+    "iframe1": "https://l1l1.link/ch?id=3",
+    "iframe2": "https://l1l1.link/ch?id=3"
+  },
+  
+  {
+    "id": "401839037",
+    "source": "Admin",
+    "name": "F1CH",
+    "quality": "HD",
+    "language": "English",
+    "sandbox": "on",
+
+
+    "hls1": "https://grand-s-main.faggotsports.tv/out/v2/415bd77a5691be11aa9b46826f01caa4/index.m3u8",
+    "hls2": "",
+
+    "iframe1": "https://l1l1.link/ch?id=7",
+    "iframe2": "https://l1l1.link/ch?id=47"
+  },
+  
+  {
+    "id": "1525654",
+    "source": "Admin",
+    "name": "CRICK",
+    "quality": "HD",
+    "language": "English",
+    "sandbox": "off",
+
+
+    "hls1": "",
+    "hls2": "",
+
+    "iframe1": "https://embedsports.top/embed/admin/admin-willow-cricket/1",
+    "iframe2": "https://embedsports.top/embed/admin/admin-willow-cricket/1"
+  },
+  
+  {
+    "id": "1491735",
+    "source": "Admin",
+    "name": "CRIC",
+    "quality": "HD",
+    "language": "English",
+    "sandbox": "on",
+
+
+    "hls1": "",
+    "hls2": "",
+
+    "iframe1": "https://l1l1.link/ch?id=4",
+    "iframe2": "https://l1l1.link/ch?id=4"
+  }
+  
+]
